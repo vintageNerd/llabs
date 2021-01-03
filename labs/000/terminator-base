@@ -1,0 +1,172 @@
+ln ~/05_Projects/21_linuxlabs/ ~/llabs
+ln: /home/vint/05_Projects/21_linuxlabs/: ligação fixa não permitida para a pasta
+[vint@generd ~ ] $ ln -s  ~/05_Projects/21_linuxlabs/ ~/llabs
+[vint@generd ~ ] $ 
+[vint@generd ~ ] $ 
+[vint@generd ~ ] $ ls -la
+total 868
+drwx-----x  66 vint users  12288 jan  3 16:18 .
+drwxr-xr-x   7 root root    4096 set 26 00:05 ..
+drwxr-xr-x   3 vint users   4096 ago  1 14:53 00_ARQUIVO
+drwxr-xr-x   3 vint users   4096 ago  1 14:55 01_Admin
+drwxr-xr-x   2 vint users   4096 ago  1 14:48 02_Planning
+drwxr-xr-x   6 vint users   4096 dez 19 10:11 03_Documents
+drwxr-xr-x   3 vint users   4096 ago  1 14:47 04_Downloads
+drwxr-xr-x  11 vint users   4096 jan  3 13:43 05_Projects
+drwxr-xr-x   2 vint users   4096 dez  9 16:42 06_Pictures
+drwxr-xr-x   2 vint users   4096 dez  7 23:49 10.55.1.126
+drwxr-xr-x  31 vint users   4096 nov  2 15:43 10_Labs
+drwxr-xr-x   9 vint users   4096 dez 12 13:42 30_git
+drwxr-xr-x   5 vint users   4096 ago  6 00:17 98_PHOTOS
+drwxr-xr-x   3 vint users   4096 ago 10 17:49 99_CIS
+drwxr-xr-x   4 vint users   4096 dez  9 16:56 .adobe
+drwxr-xr-x   6 vint users   4096 set  9 16:04 .atom
+-rw-------   1 vint users  20688 jan  3 16:17 .bash_history
+-rw-r--r--   1 vint vint     948 set 10 14:48 .bashrc
+drwxr-xr-x   2 vint users   4096 set  9 16:04 .beef
+drwxr-xr-x   4 vint users   4096 nov 16  2019 .blackman
+-rw-r--r--   1 vint users 296544 set  8 00:12 boot-dump
+drwxr-xr-x   2 vint users   4096 nov 25 18:46 BOX
+drwxr-xr-x   3 vint users   4096 set  9 16:04 .bundle
+drwxr-xr-x  37 vint users   4096 dez  4 12:58 .cache
+-rw-r--r--   1 vint users    165 dez 14 20:32 cks5
+drwxr-xr-x  78 vint users   4096 jan  3 13:54 .config
+drwxr-xr-x   3 vint users   4096 dez 17  2019 .cpan
+drwxr-xr-x   3 vint users   4096 out  1 15:28 Desktop
+drwx------   2 vint users   4096 dez 21  2019 .dillo
+-rw-r--r--   1 vint users     23 ago 27 02:06 .dmrc
+drwx------   3 vint users   4096 ago  5  2019 .docker
+drwxr-xr-x   3 vint users   4096 mai 16  2020 docker
+drwx--x---+  3 vint users   4096 dez 27 15:02 Downloads
+drwx------   2 vint users   4096 nov 19  2019 .elinks
+-rw-------   1 vint users     16 jul  2  2019 .esd_auth
+drwx------   4 vint users   4096 dez  5  2019 .fltk
+drwxr-xr-x   2 vint users   4096 ago 31  2019 .fonts
+drwxr-xr-x  11 vint users   4096 jul 20 00:05 .gem
+-rw-r--r--   1 vint users     86 mai 18  2020 .gitconfig
+drwx------   5 vint users   4096 dez 13 19:15 .gnupg
+drwxr-xr-x   4 vint users   4096 dez  5  2019 .guppy
+-rw-------   1 vint users      0 set 10 13:53 .ICEauthority
+-rw-r--r--   1 vint users     19 dez 24 00:43 ip
+-rw-r--r--   1 vint users     19 dez 24 00:49 ip.1
+-rw-r--r--   1 vint users     19 dez 24 00:49 ip.2
+drwxr-xr-x   5 vint users   4096 set 24  2019 .ipython
+-rw-------   1 vint users    335 set 30  2019 .iwctl_history
+drwxr-xr-x   4 vint users   4096 dez 13  2019 .java
+drwx------   3 vint users   4096 dez 10  2019 .john
+drwxr-xr-x   2 vint users   4096 dez  2 16:23 kazam
+drwxr-xr-x   3 vint users   4096 ago 26 03:04 .kde4
+-rw-r--r--   1 vint users   1511 set 25  2019 .keystore
+-rw-r--r--   1 vint users     54 nov 26 22:51 lab026.log
+drwxr-xr-x   3 vint users   4096 dez 31 18:09 labs
+-rw-------   1 vint users    604 mai 10  2020 .lesshst
+lrwxrwxrwx   1 vint users     36 jan  3 16:18 llabs -> /home/vint/05_Projects/21_linuxlabs/
+drwxr-xr-x   4 vint users   4096 set 30  2019 .local
+-rw-r--r--   1 vint users     74 jul 11 20:02 .~lock.novo.ods#
+-rw-------   1 vint users      9 set 24 23:11 .lvm_history
+drwxr-xr-x   4 vint users   4096 set 20  2019 .m2
+drwx------   3 vint users   4096 dez  9 16:56 .macromedia
+drwxr-xr-x   2 vint users   4096 dez 28 00:01 .mitmproxy
+drwx------   5 vint users   4096 jun 24  2019 .mozilla
+-rw-r--r--   1 vint users    437 dez 31 18:09 .netactview
+drwx------   2 vint users   4096 mai 17  2020 .ngrok2
+drwxr-xr-x   6 vint users   4096 jul 19 16:01 .npm
+-rw-r--r--   1 root root   44979 mai 27  2020 .ok1
+drwxr-xr-x   2 vint users   4096 dez 28  2019 .packer.d
+-rw-r--r--   1 root root    1865 dez 20 20:30 pcap-ngrep1.pcap
+drwx------   3 vint users   4096 jul  4  2019 .pki
+drwxr-xr-x   2 vint users   4096 mai  5  2020 .pvpn-cli
+-rw-------   1 vint users   2307 jan  1  2020 .python_history
+-rw-r--r--   1 vint users     24 set  9 16:04 README.md
+drwxr-xr-x   3 vint users   4096 dez 13 19:19 .__REPL_NAME__
+drwxr-xr-x   2 vint users   4096 set 11 13:24 .ricardo
+-rw-r--r--   1 vint users    318 ago  8 18:06 ricardoprompt
+-rw-------   1 vint users   1024 nov 19  2019 .rnd
+drwxrwx---   3 vint users   4096 jun 30  2019 .sane
+drwx------   2 vint users   4096 jul 15  2019 .sbd
+-rw-r--r--   1 vint users  28672 set 24  2019 .scapy_history
+drwx------   2 vint users   4096 dez 23 00:40 .ssh
+drwxr-xr-x   3 vint users   4096 jan  5  2020 .subversion
+drwxr-xr-x   3 vint users   4096 ago 11  2019 .swt
+-rw-r--r--   1 vint users   7467 set 18 18:02 teslellbas1.xcf
+drwx------   3 vint users   4096 set 12  2019 .thunderbird
+drwxr-xr-x   3 vint users   4096 dez 21  2019 .tor-browser-en
+drwxr-xr-x   8 vint users   4096 out  2 15:51 .vagrant.d
+-rw-r--r--   1 vint users  28939 ago  6 19:38 vga1
+-rw-------   1 vint users   3202 set 28  2019 .viminfo
+drwxr-xr-x   2 vint users   4096 jul 28  2019 .vnc
+drwxr-xr-x   3 vint users   4096 jul 20 16:51 .vscode-oss
+drwxr-xr-x   5 vint users   4096 dez 13  2019 .w3af
+-rw-r--r--   1 vint users    293 set 26  2019 .wavemonrc
+-rw-r--r--   1 vint users    865 set 24 12:37 .wget-hsts
+drwxr-xr-x   4 vint users   4096 jun 23  2020 .wine
+-rw-r--r--   1 vint users   1691 set 26  2019 .wxHexEditor
+-rw-------   1 vint users     51 jan  3 12:52 .Xauthority
+drwx------   2 vint users   4096 nov 17  2019 .xpra
+-rw-r--r--   1 vint users    218 set 11 00:03 .Xresources
+-rw-------   1 vint users   6566 jan  3 14:43 .xsession-errors
+-rw-------   1 vint users  14292 jan  3 11:16 .xsession-errors.old
+-rw-r--r--   1 vint users   9305 set 10 23:57 xterm.2020.09.10.23.57.54.xhtml
+-rw-r--r--   1 vint users  26264 set 10 23:58 Xterm.log.generd.2020.09.10.23.57.22.36561
+drwxr-xr-x  17 vint users   4096 dez 28 14:00 .ZAP
+[vint@generd ~ ] $  Atualizar referências remotas juntamente com objetos associados
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+See 'git help git' for an overview of the system.
+[vint@generd ~/30_git ] $ 
+[vint@generd ~/30_git ] $ 
+[vint@generd ~/30_git ] $ 
+[vint@generd ~/30_git ] $ 
+[vint@generd ~/30_git ] $ 
+[vint@generd ~/30_git ] $ 
+[vint@generd ~/30_git ] $ 
+[vint@generd ~/30_git ] $ git clone https://github.com/vintageNerd/llabs.git
+A clonar em 'llabs'...
+remote: Enumerating objects: 26, done.
+remote: Counting objects: 100% (26/26), done.
+remote: Compressing objects: 100% (21/21), done.
+remote: Total 26 (delta 1), reused 21 (delta 1), pack-reused 0
+A receber objetos: 100% (26/26), 11.21 KiB | 2.80 MiB/s, concluído.
+A resolver deltas: 100% (1/1), concluído.
+[vint@generd ~/30_git ] $ 
+[vint@generd ~/30_git ] $ 
+[vint@generd ~/30_git ] $ 
+[vint@generd ~/30_git ] $ 
+[vint@generd ~/30_git ] $ cd llabs/
+[vint@generd ~/30_git/llabs ] $ ls -la
+total 48
+drwxr-xr-x  7 vint users 4096 jan  3 16:58 .
+drwxr-xr-x 10 vint users 4096 jan  3 16:58 ..
+drwxr-xr-x  3 vint users 4096 jan  3 16:58 assets
+-rw-r--r--  1 vint users 3139 jan  3 16:58 _config.yml
+drwxr-xr-x  2 vint users 4096 jan  3 16:58 _data
+-rw-r--r--  1 vint users  362 jan  3 16:58 Gemfile
+drwxr-xr-x  8 vint users 4096 jan  3 16:58 .git
+-rw-r--r--  1 vint users   47 jan  3 16:58 .gitignore
+-rw-r--r--  1 vint users  234 jan  3 16:58 index.html
+drwxr-xr-x  2 vint users 4096 jan  3 16:58 _pages
+drwxr-xr-x  2 vint users 4096 jan  3 16:58 _posts
+-rw-r--r--  1 vint users 1367 jan  3 16:58 README.md
+[vint@generd ~/30_git/llabs ] $ 
+[vint@generd ~/30_git/llabs ] $ 
+[vint@generd ~/30_git/llabs ] $ 
+[vint@generd ~/30_git/llabs ] $n  3 17:19 .bundle
+-rw-r--r--  1 vint users 3139 jan  3 16:58 _config.yml
+drwxr-xr-x  2 vint users 4096 jan  3 16:58 _data
+-rw-r--r--  1 vint users  362 jan  3 16:58 Gemfile
+-rw-r--r--  1 vint users 7897 jan  3 17:22 Gemfile.lock
+drwxr-xr-x  8 vint users 4096 jan  3 16:58 .git
+-rw-r--r--  1 vint users   47 jan  3 16:58 .gitignore
+-rw-r--r--  1 vint users  234 jan  3 16:58 index.html
+drwxr-xr-x  2 vint users 4096 jan  3 16:58 _pages
+drwxr-xr-x  2 vint users 4096 jan  3 16:58 _posts
+-rw-r--r--  1 vint users 1367 jan  3 16:58 README.md
+drwxr-xr-x  9 vint users 4096 jan  3 17:49 _site
+drwxr-xr-x  3 vint users 4096 jan  3 17:19 vendor
+[vint@generd ~/30_git/llabs ] $ git remote -v
+origin	https://github.com/vintageNerd/llabs.git (fetch)
+origin	https://github.com/vintageNerd/llabs.git (push)
+[vint@generd ~/30_git/llabs ] $ ^C
+[vint@generd ~/30_git/llabs ] $

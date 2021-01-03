@@ -1,9 +1,19 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
+  - title: "Categorias"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+
+sidebar-linuxlabs:
+
+- title: "Laboratórios"
+
+- title: "Chassis"
+
+#  children:
+#    - title: "01 - A máquina"
+#      url:  /labs/chassis/01-maquina/
+#    - title: "02 - O disco"           
+#      url:  /labs/chassis/02-disco/
